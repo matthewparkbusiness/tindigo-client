@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tindigo-client/precache-manifest.375f03c8edbd07c796d5b82ec27bef9b.js"
+  "/tindigo-client/precache-manifest.aaa0b1a528c7f6a383a8a671ce84cd46.js"
 );
 
 self.addEventListener('message', (event) => {

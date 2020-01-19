@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef7bf830534a9bdf38f5b88426c5ca18",
+    "revision": "efb9b9eafb3f94eb68487709b9369946",
     "url": "/tindigo-client/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tindigo-client/static/css/main.17dfedfb.chunk.css"
   },
   {
-    "revision": "bcdf1e4b65d66c58f403",
-    "url": "/tindigo-client/static/js/2.117684d1.chunk.js"
+    "revision": "7bf2747c34e50de138ce",
+    "url": "/tindigo-client/static/js/2.976b17c4.chunk.js"
   },
   {
     "revision": "0ef031bde8bfd5c1e18e",
